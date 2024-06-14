@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+#player {
+border: 1px solid #ccc;
+padding: 20px;
+background-color: #fff;
+}
+
+#file-list {
+margin-top: 20px;
+}
+
+.file-item {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.file-item:hover {
+    background-color: #e0e0e0;
+}
