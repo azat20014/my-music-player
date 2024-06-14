@@ -5,11 +5,11 @@
  const songs = [
      {
          title: 'Песня 1',
-         src: 'https://drive.google.com/uc?export=download&id=ID_ВАШЕГО_ФАЙЛА_1'
+         src: 'https://drive.google.com/file/d/1e_ftdU5UEot-aYUbT5zjqgrDHyIxbNDd/view?usp=drive_link'
      },
      {
          title: 'Песня 2',
-         src: 'https://drive.google.com/uc?export=download&id=ID_ВАШЕГО_ФАЙЛА_2'
+         src: 'https://drive.google.com/file/d/1W6yg0sDD5GZIZAnfPnwnbRvWkYBC9Htd/view?usp=drive_link'
      }
  ];
 
