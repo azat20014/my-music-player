@@ -1,5 +1,5 @@
-const CLIENT_ID = '1067290421359-52lo6tnbbme7976hd1euvoa7dir3aqm9.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyD9hXkgZggng0UCiapVeu6T1QRuj0qPT6g';
+const CLIENT_ID = '828364428307-rnf73fk6d5e0mp0jvaujq9qept24d8os.apps.googleusercontent.com';
+const API_KEY = 'AIzaSyBj0lXeituQLVJckpefExmacBcraO4h3A8';
 const FOLDER_ID = '10qHaHoxXMrRN1pkPXLkzaGxU2xLlzEpQ';
 
 const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
