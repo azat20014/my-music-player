@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#player {
+margin-bottom: 20px;
+}
+
+#track-list li {
+cursor: pointer;
+padding: 5px;
+}
+
+#track-list li:hover {
+background-color: #f0f0f0;
+}
