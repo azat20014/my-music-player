@@ -6,11 +6,11 @@ document.addEventListener("DOMContentLoaded", function() {
     const songs = [
         {
             name: "Песня 1",
-            url: "YOUR_GOOGLE_DRIVE_LINK_1"
+            url: "https://drive.google.com/file/d/1e_ftdU5UEot-aYUbT5zjqgrDHyIxbNDd/view?usp=drive_link"
         },
         {
             name: "Песня 2",
-            url: "YOUR_GOOGLE_DRIVE_LINK_2"
+            url: "https://drive.google.com/file/d/1W6yg0sDD5GZIZAnfPnwnbRvWkYBC9Htd/view?usp=drive_link"
         }
         // добавьте больше песен
     ];
