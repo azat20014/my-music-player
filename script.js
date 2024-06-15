@@ -1,5 +1,5 @@
-const apiKey = 'ВАШ_API_KEY'; // Ваш API ключ Google
-const folderId = 'ВАШ_FOLDER_ID'; // ID папки в Google Drive
+const apiKey = 'AIzaSyDhwFdUoEwc_JuhZgZ1RaIi-I53EgrPNW0'; // Ваш API ключ Google
+const folderId = '10qHaHoxXMrRN1pkPXLkzaGxU2xLlzEpQ'; // ID папки в Google Drive
 
 const audioPlayer = document.getElementById('audio-player');
 const audioSource = document.getElementById('audio-source');
