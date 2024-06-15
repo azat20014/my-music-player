@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const folderId = 'YOUR_FOLDER_ID_HERE';
-    const apiKey = 'YOUR_API_KEY_HERE';
+    const folderId = '10qHaHoxXMrRN1pkPXLkzaGxU2xLlzEpQ';
+    const apiKey = 'AIzaSyDhwFdUoEwc_JuhZgZ1RaIi-I53EgrPNW0';
     const audio = new Audio();
     let trackList = [];
     let currentTrackIndex = 0;
