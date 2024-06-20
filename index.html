@@ -1,18 +1,31 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website with Audio Player</title>
-</head>
-<body>
-    <h1>Welcome to my website!</h1>
-    <p>Enjoy the music:</p>
+   <!DOCTYPE html>
+   <html lang="ru">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Audio Player</title>
+   </head>
+   <body>
+       
+       <!-- Ваш контент до плеера -->
 
-    <!-- Вставляем код виджета Elfsight -->
-    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-    <div class="elfsight-app-c1b19993-a545-4876-b1c5-bffd6f89e7f3" data-elfsight-app-lazy></div>
+       <!-- Добавление кода виджета от Elfsight -->
+       <div id="audio-player" style="width:100%;height:auto;"></div>
+       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+       <script>
+           (function(d){
+               var js, id = 'elfsight-app-purpose', ref = d.getElementsByTagName('script')[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement('script'); 
+               js.id = id; 
+               js.async = true;
+               js.src = 'https://apps.elfsight.com/p/platform.js';
+               ref.parentNode.insertBefore(js, ref);
+           }(document));
+       </script>
 
-    <!-- Остальная часть содержимого страницы -->
-</body>
-</html>
+       <!-- Ваш контент после плеера -->
+
+   </body>
+   </html>
+   
